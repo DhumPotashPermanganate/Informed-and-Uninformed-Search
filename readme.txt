@@ -1,5 +1,3 @@
-Name: Amulya
-UTA-ID: 1002025620
 Language used: Python
 
 The code is structured in one file with 5 functions in it. 
